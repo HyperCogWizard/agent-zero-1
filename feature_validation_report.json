@@ -1,0 +1,1196 @@
+{
+  "timestamp": "Wed Jun 25 14:36:53 UTC 2025",
+  "feature_hypergraph": {
+    "nodes": {
+      "tool_browser_open": {
+        "name": "tool_browser_open",
+        "path": "python/tools/browser_open.py",
+        "feature_type": "python_tool",
+        "dependencies": [],
+        "description": "Python module: browser_open.py",
+        "status": "unknown",
+        "test_results": null
+      },
+      "tool_scheduler": {
+        "name": "tool_scheduler",
+        "path": "python/tools/scheduler.py",
+        "feature_type": "python_tool",
+        "dependencies": [],
+        "description": "Python module: scheduler.py",
+        "status": "unknown",
+        "test_results": null
+      },
+      "tool_memory_forget": {
+        "name": "tool_memory_forget",
+        "path": "python/tools/memory_forget.py",
+        "feature_type": "python_tool",
+        "dependencies": [],
+        "description": "Python module: memory_forget.py",
+        "status": "unknown",
+        "test_results": null
+      },
+      "tool_browser_do": {
+        "name": "tool_browser_do",
+        "path": "python/tools/browser_do.py",
+        "feature_type": "python_tool",
+        "dependencies": [],
+        "description": "Python module: browser_do.py",
+        "status": "unknown",
+        "test_results": null
+      },
+      "tool_browser_agent": {
+        "name": "tool_browser_agent",
+        "path": "python/tools/browser_agent.py",
+        "feature_type": "python_tool",
+        "dependencies": [],
+        "description": "Python module: browser_agent.py",
+        "status": "unknown",
+        "test_results": null
+      },
+      "tool_knowledge_tool": {
+        "name": "tool_knowledge_tool",
+        "path": "python/tools/knowledge_tool.py",
+        "feature_type": "python_tool",
+        "dependencies": [],
+        "description": "Python module: knowledge_tool.py",
+        "status": "unknown",
+        "test_results": null
+      },
+      "tool_unknown": {
+        "name": "tool_unknown",
+        "path": "python/tools/unknown.py",
+        "feature_type": "python_tool",
+        "dependencies": [],
+        "description": "Python module: unknown.py",
+        "status": "unknown",
+        "test_results": null
+      },
+      "tool_memory_load": {
+        "name": "tool_memory_load",
+        "path": "python/tools/memory_load.py",
+        "feature_type": "python_tool",
+        "dependencies": [],
+        "description": "Python module: memory_load.py",
+        "status": "unknown",
+        "test_results": null
+      },
+      "tool_webpage_content_tool": {
+        "name": "tool_webpage_content_tool",
+        "path": "python/tools/webpage_content_tool.py",
+        "feature_type": "python_tool",
+        "dependencies": [],
+        "description": "Python module: webpage_content_tool.py",
+        "status": "unknown",
+        "test_results": null
+      },
+      "tool_call_subordinate": {
+        "name": "tool_call_subordinate",
+        "path": "python/tools/call_subordinate.py",
+        "feature_type": "python_tool",
+        "dependencies": [],
+        "description": "Python module: call_subordinate.py",
+        "status": "unknown",
+        "test_results": null
+      },
+      "tool_task_done": {
+        "name": "tool_task_done",
+        "path": "python/tools/task_done.py",
+        "feature_type": "python_tool",
+        "dependencies": [],
+        "description": "Python module: task_done.py",
+        "status": "unknown",
+        "test_results": null
+      },
+      "tool_input": {
+        "name": "tool_input",
+        "path": "python/tools/input.py",
+        "feature_type": "python_tool",
+        "dependencies": [],
+        "description": "Python module: input.py",
+        "status": "unknown",
+        "test_results": null
+      },
+      "tool_memory_delete": {
+        "name": "tool_memory_delete",
+        "path": "python/tools/memory_delete.py",
+        "feature_type": "python_tool",
+        "dependencies": [],
+        "description": "Python module: memory_delete.py",
+        "status": "unknown",
+        "test_results": null
+      },
+      "tool_memory_save": {
+        "name": "tool_memory_save",
+        "path": "python/tools/memory_save.py",
+        "feature_type": "python_tool",
+        "dependencies": [],
+        "description": "Python module: memory_save.py",
+        "status": "unknown",
+        "test_results": null
+      },
+      "tool_vision_load": {
+        "name": "tool_vision_load",
+        "path": "python/tools/vision_load.py",
+        "feature_type": "python_tool",
+        "dependencies": [],
+        "description": "Python module: vision_load.py",
+        "status": "unknown",
+        "test_results": null
+      },
+      "tool_browser": {
+        "name": "tool_browser",
+        "path": "python/tools/browser.py",
+        "feature_type": "python_tool",
+        "dependencies": [],
+        "description": "Python module: browser.py",
+        "status": "unknown",
+        "test_results": null
+      },
+      "tool_code_execution_tool": {
+        "name": "tool_code_execution_tool",
+        "path": "python/tools/code_execution_tool.py",
+        "feature_type": "python_tool",
+        "dependencies": [],
+        "description": "Python module: code_execution_tool.py",
+        "status": "unknown",
+        "test_results": null
+      },
+      "tool_behaviour_adjustment": {
+        "name": "tool_behaviour_adjustment",
+        "path": "python/tools/behaviour_adjustment.py",
+        "feature_type": "python_tool",
+        "dependencies": [],
+        "description": "Python module: behaviour_adjustment.py",
+        "status": "unknown",
+        "test_results": null
+      },
+      "tool_response": {
+        "name": "tool_response",
+        "path": "python/tools/response.py",
+        "feature_type": "python_tool",
+        "dependencies": [],
+        "description": "Python module: response.py",
+        "status": "unknown",
+        "test_results": null
+      },
+      "api_tunnel_proxy": {
+        "name": "api_tunnel_proxy",
+        "path": "python/api/tunnel_proxy.py",
+        "feature_type": "api_endpoint",
+        "dependencies": [],
+        "description": "Python module: tunnel_proxy.py",
+        "status": "unknown",
+        "test_results": null
+      },
+      "api_download_work_dir_file": {
+        "name": "api_download_work_dir_file",
+        "path": "python/api/download_work_dir_file.py",
+        "feature_type": "api_endpoint",
+        "dependencies": [],
+        "description": "Python module: download_work_dir_file.py",
+        "status": "unknown",
+        "test_results": null
+      },
+      "api_scheduler_task_create": {
+        "name": "api_scheduler_task_create",
+        "path": "python/api/scheduler_task_create.py",
+        "feature_type": "api_endpoint",
+        "dependencies": [],
+        "description": "Create a new task in the scheduler",
+        "status": "unknown",
+        "test_results": null
+      },
+      "api_image_get": {
+        "name": "api_image_get",
+        "path": "python/api/image_get.py",
+        "feature_type": "api_endpoint",
+        "dependencies": [],
+        "description": "Python module: image_get.py",
+        "status": "unknown",
+        "test_results": null
+      },
+      "api_scheduler_task_run": {
+        "name": "api_scheduler_task_run",
+        "path": "python/api/scheduler_task_run.py",
+        "feature_type": "api_endpoint",
+        "dependencies": [],
+        "description": "Manually run a task from the scheduler by ID",
+        "status": "unknown",
+        "test_results": null
+      },
+      "api_nudge": {
+        "name": "api_nudge",
+        "path": "python/api/nudge.py",
+        "feature_type": "api_endpoint",
+        "dependencies": [],
+        "description": "Python module: nudge.py",
+        "status": "unknown",
+        "test_results": null
+      },
+      "api_message_async": {
+        "name": "api_message_async",
+        "path": "python/api/message_async.py",
+        "feature_type": "api_endpoint",
+        "dependencies": [],
+        "description": "Python module: message_async.py",
+        "status": "unknown",
+        "test_results": null
+      },
+      "api_message": {
+        "name": "api_message",
+        "path": "python/api/message.py",
+        "feature_type": "api_endpoint",
+        "dependencies": [],
+        "description": "Python module: message.py",
+        "status": "unknown",
+        "test_results": null
+      },
+      "api_poll": {
+        "name": "api_poll",
+        "path": "python/api/poll.py",
+        "feature_type": "api_endpoint",
+        "dependencies": [],
+        "description": "Python module: poll.py",
+        "status": "unknown",
+        "test_results": null
+      },
+      "api_scheduler_tasks_list": {
+        "name": "api_scheduler_tasks_list",
+        "path": "python/api/scheduler_tasks_list.py",
+        "feature_type": "api_endpoint",
+        "dependencies": [],
+        "description": "List all tasks in the scheduler with their types",
+        "status": "unknown",
+        "test_results": null
+      },
+      "api_scheduler_task_delete": {
+        "name": "api_scheduler_task_delete",
+        "path": "python/api/scheduler_task_delete.py",
+        "feature_type": "api_endpoint",
+        "dependencies": [],
+        "description": "Delete a task from the scheduler by ID",
+        "status": "unknown",
+        "test_results": null
+      },
+      "api_settings_get": {
+        "name": "api_settings_get",
+        "path": "python/api/settings_get.py",
+        "feature_type": "api_endpoint",
+        "dependencies": [],
+        "description": "Python module: settings_get.py",
+        "status": "unknown",
+        "test_results": null
+      },
+      "api_chat_export": {
+        "name": "api_chat_export",
+        "path": "python/api/chat_export.py",
+        "feature_type": "api_endpoint",
+        "dependencies": [],
+        "description": "Python module: chat_export.py",
+        "status": "unknown",
+        "test_results": null
+      },
+      "api_ctx_window_get": {
+        "name": "api_ctx_window_get",
+        "path": "python/api/ctx_window_get.py",
+        "feature_type": "api_endpoint",
+        "dependencies": [],
+        "description": "Python module: ctx_window_get.py",
+        "status": "unknown",
+        "test_results": null
+      },
+      "api_pause": {
+        "name": "api_pause",
+        "path": "python/api/pause.py",
+        "feature_type": "api_endpoint",
+        "dependencies": [],
+        "description": "Python module: pause.py",
+        "status": "unknown",
+        "test_results": null
+      },
+      "api_history_get": {
+        "name": "api_history_get",
+        "path": "python/api/history_get.py",
+        "feature_type": "api_endpoint",
+        "dependencies": [],
+        "description": "Python module: history_get.py",
+        "status": "unknown",
+        "test_results": null
+      },
+      "api_settings_set": {
+        "name": "api_settings_set",
+        "path": "python/api/settings_set.py",
+        "feature_type": "api_endpoint",
+        "dependencies": [],
+        "description": "Python module: settings_set.py",
+        "status": "unknown",
+        "test_results": null
+      },
+      "api_scheduler_task_update": {
+        "name": "api_scheduler_task_update",
+        "path": "python/api/scheduler_task_update.py",
+        "feature_type": "api_endpoint",
+        "dependencies": [],
+        "description": "Update an existing task in the scheduler",
+        "status": "unknown",
+        "test_results": null
+      },
+      "api_tunnel": {
+        "name": "api_tunnel",
+        "path": "python/api/tunnel.py",
+        "feature_type": "api_endpoint",
+        "dependencies": [],
+        "description": "Python module: tunnel.py",
+        "status": "unknown",
+        "test_results": null
+      },
+      "api_delete_work_dir_file": {
+        "name": "api_delete_work_dir_file",
+        "path": "python/api/delete_work_dir_file.py",
+        "feature_type": "api_endpoint",
+        "dependencies": [],
+        "description": "Python module: delete_work_dir_file.py",
+        "status": "unknown",
+        "test_results": null
+      },
+      "api_chat_load": {
+        "name": "api_chat_load",
+        "path": "python/api/chat_load.py",
+        "feature_type": "api_endpoint",
+        "dependencies": [],
+        "description": "Python module: chat_load.py",
+        "status": "unknown",
+        "test_results": null
+      },
+      "api_file_info": {
+        "name": "api_file_info",
+        "path": "python/api/file_info.py",
+        "feature_type": "api_endpoint",
+        "dependencies": [],
+        "description": "Python module: file_info.py",
+        "status": "unknown",
+        "test_results": null
+      },
+      "api_chat_remove": {
+        "name": "api_chat_remove",
+        "path": "python/api/chat_remove.py",
+        "feature_type": "api_endpoint",
+        "dependencies": [],
+        "description": "Python module: chat_remove.py",
+        "status": "unknown",
+        "test_results": null
+      },
+      "api_upload_work_dir_files": {
+        "name": "api_upload_work_dir_files",
+        "path": "python/api/upload_work_dir_files.py",
+        "feature_type": "api_endpoint",
+        "dependencies": [],
+        "description": "Python module: upload_work_dir_files.py",
+        "status": "unknown",
+        "test_results": null
+      },
+      "api_import_knowledge": {
+        "name": "api_import_knowledge",
+        "path": "python/api/import_knowledge.py",
+        "feature_type": "api_endpoint",
+        "dependencies": [],
+        "description": "Python module: import_knowledge.py",
+        "status": "unknown",
+        "test_results": null
+      },
+      "api_scheduler_tick": {
+        "name": "api_scheduler_tick",
+        "path": "python/api/scheduler_tick.py",
+        "feature_type": "api_endpoint",
+        "dependencies": [],
+        "description": "Python module: scheduler_tick.py",
+        "status": "unknown",
+        "test_results": null
+      },
+      "api_health": {
+        "name": "api_health",
+        "path": "python/api/health.py",
+        "feature_type": "api_endpoint",
+        "dependencies": [],
+        "description": "Python module: health.py",
+        "status": "unknown",
+        "test_results": null
+      },
+      "api_chat_reset": {
+        "name": "api_chat_reset",
+        "path": "python/api/chat_reset.py",
+        "feature_type": "api_endpoint",
+        "dependencies": [],
+        "description": "Python module: chat_reset.py",
+        "status": "unknown",
+        "test_results": null
+      },
+      "api_restart": {
+        "name": "api_restart",
+        "path": "python/api/restart.py",
+        "feature_type": "api_endpoint",
+        "dependencies": [],
+        "description": "Python module: restart.py",
+        "status": "unknown",
+        "test_results": null
+      },
+      "api_upload": {
+        "name": "api_upload",
+        "path": "python/api/upload.py",
+        "feature_type": "api_endpoint",
+        "dependencies": [],
+        "description": "Python module: upload.py",
+        "status": "unknown",
+        "test_results": null
+      },
+      "api_transcribe": {
+        "name": "api_transcribe",
+        "path": "python/api/transcribe.py",
+        "feature_type": "api_endpoint",
+        "dependencies": [],
+        "description": "Python module: transcribe.py",
+        "status": "unknown",
+        "test_results": null
+      },
+      "api_get_work_dir_files": {
+        "name": "api_get_work_dir_files",
+        "path": "python/api/get_work_dir_files.py",
+        "feature_type": "api_endpoint",
+        "dependencies": [],
+        "description": "Python module: get_work_dir_files.py",
+        "status": "unknown",
+        "test_results": null
+      },
+      "api_rfc": {
+        "name": "api_rfc",
+        "path": "python/api/rfc.py",
+        "feature_type": "api_endpoint",
+        "dependencies": [],
+        "description": "Python module: rfc.py",
+        "status": "unknown",
+        "test_results": null
+      },
+      "web_interface_main": {
+        "name": "web_interface_main",
+        "path": "webui/index.html",
+        "feature_type": "web_component",
+        "dependencies": [],
+        "description": "Main web interface for agent-zero-1",
+        "status": "unknown",
+        "test_results": null
+      },
+      "web_file_browser": {
+        "name": "web_file_browser",
+        "path": "webui/js/file_browser.js",
+        "feature_type": "web_component",
+        "dependencies": [],
+        "description": "Web component: file_browser",
+        "status": "unknown",
+        "test_results": null
+      },
+      "web_time-utils": {
+        "name": "web_time-utils",
+        "path": "webui/js/time-utils.js",
+        "feature_type": "web_component",
+        "dependencies": [],
+        "description": "Web component: time-utils",
+        "status": "unknown",
+        "test_results": null
+      },
+      "web_speech": {
+        "name": "web_speech",
+        "path": "webui/js/speech.js",
+        "feature_type": "web_component",
+        "dependencies": [],
+        "description": "Web component: speech",
+        "status": "unknown",
+        "test_results": null
+      },
+      "web_history": {
+        "name": "web_history",
+        "path": "webui/js/history.js",
+        "feature_type": "web_component",
+        "dependencies": [],
+        "description": "Web component: history",
+        "status": "unknown",
+        "test_results": null
+      },
+      "web_image_modal": {
+        "name": "web_image_modal",
+        "path": "webui/js/image_modal.js",
+        "feature_type": "web_component",
+        "dependencies": [],
+        "description": "Web component: image_modal",
+        "status": "unknown",
+        "test_results": null
+      },
+      "web_modal": {
+        "name": "web_modal",
+        "path": "webui/js/modal.js",
+        "feature_type": "web_component",
+        "dependencies": [],
+        "description": "Web component: modal",
+        "status": "unknown",
+        "test_results": null
+      },
+      "web_scheduler": {
+        "name": "web_scheduler",
+        "path": "webui/js/scheduler.js",
+        "feature_type": "web_component",
+        "dependencies": [],
+        "description": "Web component: scheduler",
+        "status": "unknown",
+        "test_results": null
+      },
+      "web_settings": {
+        "name": "web_settings",
+        "path": "webui/js/settings.js",
+        "feature_type": "web_component",
+        "dependencies": [],
+        "description": "Web component: settings",
+        "status": "unknown",
+        "test_results": null
+      },
+      "web_tunnel": {
+        "name": "web_tunnel",
+        "path": "webui/js/tunnel.js",
+        "feature_type": "web_component",
+        "dependencies": [],
+        "description": "Web component: tunnel",
+        "status": "unknown",
+        "test_results": null
+      },
+      "web_speech_browser": {
+        "name": "web_speech_browser",
+        "path": "webui/js/speech_browser.js",
+        "feature_type": "web_component",
+        "dependencies": [],
+        "description": "Web component: speech_browser",
+        "status": "unknown",
+        "test_results": null
+      },
+      "web_messages": {
+        "name": "web_messages",
+        "path": "webui/js/messages.js",
+        "feature_type": "web_component",
+        "dependencies": [],
+        "description": "Web component: messages",
+        "status": "unknown",
+        "test_results": null
+      },
+      "web_transformers@3.0.2": {
+        "name": "web_transformers@3.0.2",
+        "path": "webui/js/transformers@3.0.2.js",
+        "feature_type": "web_component",
+        "dependencies": [],
+        "description": "Web component: transformers@3.0.2",
+        "status": "unknown",
+        "test_results": null
+      },
+      "core_agent": {
+        "name": "core_agent",
+        "path": "agent.py",
+        "feature_type": "core_module",
+        "dependencies": [],
+        "description": "Python module: agent.py",
+        "status": "unknown",
+        "test_results": null
+      },
+      "core_initialize": {
+        "name": "core_initialize",
+        "path": "initialize.py",
+        "feature_type": "core_module",
+        "dependencies": [],
+        "description": "Python module: initialize.py",
+        "status": "unknown",
+        "test_results": null
+      },
+      "core_models": {
+        "name": "core_models",
+        "path": "models.py",
+        "feature_type": "core_module",
+        "dependencies": [],
+        "description": "Python module: models.py",
+        "status": "unknown",
+        "test_results": null
+      },
+      "core_run_cli": {
+        "name": "core_run_cli",
+        "path": "run_cli.py",
+        "feature_type": "core_module",
+        "dependencies": [],
+        "description": "Python module: run_cli.py",
+        "status": "unknown",
+        "test_results": null
+      },
+      "core_run_ui": {
+        "name": "core_run_ui",
+        "path": "run_ui.py",
+        "feature_type": "core_module",
+        "dependencies": [],
+        "description": "Python module: run_ui.py",
+        "status": "unknown",
+        "test_results": null
+      },
+      "core_run_tunnel": {
+        "name": "core_run_tunnel",
+        "path": "run_tunnel.py",
+        "feature_type": "core_module",
+        "dependencies": [],
+        "description": "Python module: run_tunnel.py",
+        "status": "unknown",
+        "test_results": null
+      }
+    },
+    "edges": {
+      "tool_browser_open": [],
+      "tool_scheduler": [],
+      "tool_memory_forget": [],
+      "tool_browser_do": [],
+      "tool_browser_agent": [],
+      "tool_knowledge_tool": [
+        "core_models"
+      ],
+      "tool_unknown": [],
+      "tool_memory_load": [
+        "core_agent"
+      ],
+      "tool_webpage_content_tool": [],
+      "tool_call_subordinate": [],
+      "tool_task_done": [],
+      "tool_input": [],
+      "tool_memory_delete": [],
+      "tool_memory_save": [
+        "core_agent"
+      ],
+      "tool_vision_load": [],
+      "tool_browser": [],
+      "tool_code_execution_tool": [
+        "core_initialize"
+      ],
+      "tool_behaviour_adjustment": [],
+      "tool_response": [],
+      "api_tunnel_proxy": [
+        "core_initialize"
+      ],
+      "api_download_work_dir_file": [
+        "core_initialize"
+      ],
+      "api_scheduler_task_create": [
+        "core_initialize"
+      ],
+      "api_image_get": [
+        "core_initialize"
+      ],
+      "api_scheduler_task_run": [
+        "core_initialize"
+      ],
+      "api_nudge": [
+        "core_initialize"
+      ],
+      "api_message_async": [
+        "core_initialize"
+      ],
+      "api_message": [
+        "core_initialize"
+      ],
+      "api_poll": [
+        "core_initialize"
+      ],
+      "api_scheduler_tasks_list": [
+        "core_initialize"
+      ],
+      "api_scheduler_task_delete": [
+        "core_initialize"
+      ],
+      "api_settings_get": [
+        "core_initialize"
+      ],
+      "api_chat_export": [
+        "core_initialize"
+      ],
+      "api_ctx_window_get": [
+        "core_initialize"
+      ],
+      "api_pause": [
+        "core_initialize"
+      ],
+      "api_history_get": [
+        "core_initialize"
+      ],
+      "api_settings_set": [
+        "core_initialize"
+      ],
+      "api_scheduler_task_update": [
+        "core_initialize"
+      ],
+      "api_tunnel": [
+        "core_initialize"
+      ],
+      "api_delete_work_dir_file": [
+        "core_initialize"
+      ],
+      "api_chat_load": [
+        "core_initialize"
+      ],
+      "api_file_info": [
+        "core_initialize"
+      ],
+      "api_chat_remove": [
+        "core_initialize"
+      ],
+      "api_upload_work_dir_files": [
+        "core_initialize"
+      ],
+      "api_import_knowledge": [
+        "core_initialize"
+      ],
+      "api_scheduler_tick": [
+        "core_initialize"
+      ],
+      "api_health": [
+        "core_initialize"
+      ],
+      "api_chat_reset": [
+        "core_initialize"
+      ],
+      "api_restart": [
+        "core_initialize"
+      ],
+      "api_upload": [
+        "core_initialize"
+      ],
+      "api_transcribe": [
+        "core_initialize"
+      ],
+      "api_get_work_dir_files": [
+        "core_initialize"
+      ],
+      "api_rfc": [
+        "core_initialize"
+      ],
+      "web_interface_main": [],
+      "web_file_browser": [
+        "web_interface_main"
+      ],
+      "web_time-utils": [
+        "web_interface_main"
+      ],
+      "web_speech": [
+        "web_interface_main"
+      ],
+      "web_history": [
+        "web_interface_main"
+      ],
+      "web_image_modal": [
+        "web_interface_main"
+      ],
+      "web_modal": [
+        "web_interface_main"
+      ],
+      "web_scheduler": [
+        "web_interface_main"
+      ],
+      "web_settings": [
+        "web_interface_main"
+      ],
+      "web_tunnel": [
+        "web_interface_main"
+      ],
+      "web_speech_browser": [
+        "web_interface_main"
+      ],
+      "web_messages": [
+        "web_interface_main"
+      ],
+      "web_transformers@3.0.2": [
+        "web_interface_main"
+      ],
+      "core_agent": [],
+      "core_initialize": [],
+      "core_models": [],
+      "core_run_cli": [],
+      "core_run_ui": [],
+      "core_run_tunnel": []
+    }
+  },
+  "environment_validation": {
+    "python_version": {
+      "status": "pass",
+      "version": "3.12.3"
+    },
+    "requirements": {
+      "status": "attention_required",
+      "missing_packages": [
+        "ansio",
+        "beautifulsoup4",
+        "browser-use",
+        "duckduckgo-search",
+        "faiss-cpu",
+        "flask[async]",
+        "flask-basicauth",
+        "flaredantic",
+        "GitPython",
+        "inputimeout",
+        "langchain-anthropic",
+        "langchain-community",
+        "langchain-google-genai",
+        "langchain-groq",
+        "langchain-huggingface",
+        "langchain-mistralai",
+        "langchain-ollama",
+        "langchain-openai",
+        "openai-whisper",
+        "lxml_html_clean",
+        "markdown",
+        "newspaper3k",
+        "paramiko",
+        "playwright",
+        "pypdf",
+        "python-dotenv",
+        "sentence-transformers",
+        "tiktoken",
+        "unstructured",
+        "unstructured-client",
+        "webcolors",
+        "crontab"
+      ],
+      "total_requirements": 34
+    },
+    "docker_availability": {
+      "status": "pass",
+      "version": "Docker version 28.0.4, build b8034c0"
+    },
+    "file_structure": {
+      "status": "pass",
+      "verified_paths": 7
+    },
+    "status": "attention_required"
+  },
+  "test_results": {
+    "existing_tests": {
+      "pytest_available": false,
+      "test_directories": [
+        "test_results"
+      ],
+      "test_files": []
+    },
+    "generated_tests": {
+      "tool_browser_open": "\n# Minimal test for tool_browser_open\ndef test_browser_open_import():\n    \"\"\"Test that browser_open can be imported\"\"\"\n    try:\n        from python.tools.browser_open import *\n        return True\n    except ImportError as e:\n        return False, str(e)\n\ndef test_browser_open_instantiation():\n    \"\"\"Test that browser_open can be instantiated\"\"\"\n    try:\n        from python.tools.browser_open import *\n        # This is a minimal test - actual implementation would need more specific testing\n        return True\n    except Exception as e:\n        return False, str(e)\n",
+      "tool_scheduler": "\n# Minimal test for tool_scheduler\ndef test_scheduler_import():\n    \"\"\"Test that scheduler can be imported\"\"\"\n    try:\n        from python.tools.scheduler import *\n        return True\n    except ImportError as e:\n        return False, str(e)\n\ndef test_scheduler_instantiation():\n    \"\"\"Test that scheduler can be instantiated\"\"\"\n    try:\n        from python.tools.scheduler import *\n        # This is a minimal test - actual implementation would need more specific testing\n        return True\n    except Exception as e:\n        return False, str(e)\n",
+      "tool_memory_forget": "\n# Minimal test for tool_memory_forget\ndef test_memory_forget_import():\n    \"\"\"Test that memory_forget can be imported\"\"\"\n    try:\n        from python.tools.memory_forget import *\n        return True\n    except ImportError as e:\n        return False, str(e)\n\ndef test_memory_forget_instantiation():\n    \"\"\"Test that memory_forget can be instantiated\"\"\"\n    try:\n        from python.tools.memory_forget import *\n        # This is a minimal test - actual implementation would need more specific testing\n        return True\n    except Exception as e:\n        return False, str(e)\n",
+      "tool_browser_do": "\n# Minimal test for tool_browser_do\ndef test_browser_do_import():\n    \"\"\"Test that browser_do can be imported\"\"\"\n    try:\n        from python.tools.browser_do import *\n        return True\n    except ImportError as e:\n        return False, str(e)\n\ndef test_browser_do_instantiation():\n    \"\"\"Test that browser_do can be instantiated\"\"\"\n    try:\n        from python.tools.browser_do import *\n        # This is a minimal test - actual implementation would need more specific testing\n        return True\n    except Exception as e:\n        return False, str(e)\n",
+      "tool_browser_agent": "\n# Minimal test for tool_browser_agent\ndef test_browser_agent_import():\n    \"\"\"Test that browser_agent can be imported\"\"\"\n    try:\n        from python.tools.browser_agent import *\n        return True\n    except ImportError as e:\n        return False, str(e)\n\ndef test_browser_agent_instantiation():\n    \"\"\"Test that browser_agent can be instantiated\"\"\"\n    try:\n        from python.tools.browser_agent import *\n        # This is a minimal test - actual implementation would need more specific testing\n        return True\n    except Exception as e:\n        return False, str(e)\n",
+      "tool_knowledge_tool": "\n# Minimal test for tool_knowledge_tool\ndef test_knowledge_tool_import():\n    \"\"\"Test that knowledge_tool can be imported\"\"\"\n    try:\n        from python.tools.knowledge_tool import *\n        return True\n    except ImportError as e:\n        return False, str(e)\n\ndef test_knowledge_tool_instantiation():\n    \"\"\"Test that knowledge_tool can be instantiated\"\"\"\n    try:\n        from python.tools.knowledge_tool import *\n        # This is a minimal test - actual implementation would need more specific testing\n        return True\n    except Exception as e:\n        return False, str(e)\n",
+      "tool_unknown": "\n# Minimal test for tool_unknown\ndef test_unknown_import():\n    \"\"\"Test that unknown can be imported\"\"\"\n    try:\n        from python.tools.unknown import *\n        return True\n    except ImportError as e:\n        return False, str(e)\n\ndef test_unknown_instantiation():\n    \"\"\"Test that unknown can be instantiated\"\"\"\n    try:\n        from python.tools.unknown import *\n        # This is a minimal test - actual implementation would need more specific testing\n        return True\n    except Exception as e:\n        return False, str(e)\n",
+      "tool_memory_load": "\n# Minimal test for tool_memory_load\ndef test_memory_load_import():\n    \"\"\"Test that memory_load can be imported\"\"\"\n    try:\n        from python.tools.memory_load import *\n        return True\n    except ImportError as e:\n        return False, str(e)\n\ndef test_memory_load_instantiation():\n    \"\"\"Test that memory_load can be instantiated\"\"\"\n    try:\n        from python.tools.memory_load import *\n        # This is a minimal test - actual implementation would need more specific testing\n        return True\n    except Exception as e:\n        return False, str(e)\n",
+      "tool_webpage_content_tool": "\n# Minimal test for tool_webpage_content_tool\ndef test_webpage_content_tool_import():\n    \"\"\"Test that webpage_content_tool can be imported\"\"\"\n    try:\n        from python.tools.webpage_content_tool import *\n        return True\n    except ImportError as e:\n        return False, str(e)\n\ndef test_webpage_content_tool_instantiation():\n    \"\"\"Test that webpage_content_tool can be instantiated\"\"\"\n    try:\n        from python.tools.webpage_content_tool import *\n        # This is a minimal test - actual implementation would need more specific testing\n        return True\n    except Exception as e:\n        return False, str(e)\n",
+      "tool_call_subordinate": "\n# Minimal test for tool_call_subordinate\ndef test_call_subordinate_import():\n    \"\"\"Test that call_subordinate can be imported\"\"\"\n    try:\n        from python.tools.call_subordinate import *\n        return True\n    except ImportError as e:\n        return False, str(e)\n\ndef test_call_subordinate_instantiation():\n    \"\"\"Test that call_subordinate can be instantiated\"\"\"\n    try:\n        from python.tools.call_subordinate import *\n        # This is a minimal test - actual implementation would need more specific testing\n        return True\n    except Exception as e:\n        return False, str(e)\n",
+      "tool_task_done": "\n# Minimal test for tool_task_done\ndef test_task_done_import():\n    \"\"\"Test that task_done can be imported\"\"\"\n    try:\n        from python.tools.task_done import *\n        return True\n    except ImportError as e:\n        return False, str(e)\n\ndef test_task_done_instantiation():\n    \"\"\"Test that task_done can be instantiated\"\"\"\n    try:\n        from python.tools.task_done import *\n        # This is a minimal test - actual implementation would need more specific testing\n        return True\n    except Exception as e:\n        return False, str(e)\n",
+      "tool_input": "\n# Minimal test for tool_input\ndef test_input_import():\n    \"\"\"Test that input can be imported\"\"\"\n    try:\n        from python.tools.input import *\n        return True\n    except ImportError as e:\n        return False, str(e)\n\ndef test_input_instantiation():\n    \"\"\"Test that input can be instantiated\"\"\"\n    try:\n        from python.tools.input import *\n        # This is a minimal test - actual implementation would need more specific testing\n        return True\n    except Exception as e:\n        return False, str(e)\n",
+      "tool_memory_delete": "\n# Minimal test for tool_memory_delete\ndef test_memory_delete_import():\n    \"\"\"Test that memory_delete can be imported\"\"\"\n    try:\n        from python.tools.memory_delete import *\n        return True\n    except ImportError as e:\n        return False, str(e)\n\ndef test_memory_delete_instantiation():\n    \"\"\"Test that memory_delete can be instantiated\"\"\"\n    try:\n        from python.tools.memory_delete import *\n        # This is a minimal test - actual implementation would need more specific testing\n        return True\n    except Exception as e:\n        return False, str(e)\n",
+      "tool_memory_save": "\n# Minimal test for tool_memory_save\ndef test_memory_save_import():\n    \"\"\"Test that memory_save can be imported\"\"\"\n    try:\n        from python.tools.memory_save import *\n        return True\n    except ImportError as e:\n        return False, str(e)\n\ndef test_memory_save_instantiation():\n    \"\"\"Test that memory_save can be instantiated\"\"\"\n    try:\n        from python.tools.memory_save import *\n        # This is a minimal test - actual implementation would need more specific testing\n        return True\n    except Exception as e:\n        return False, str(e)\n",
+      "tool_vision_load": "\n# Minimal test for tool_vision_load\ndef test_vision_load_import():\n    \"\"\"Test that vision_load can be imported\"\"\"\n    try:\n        from python.tools.vision_load import *\n        return True\n    except ImportError as e:\n        return False, str(e)\n\ndef test_vision_load_instantiation():\n    \"\"\"Test that vision_load can be instantiated\"\"\"\n    try:\n        from python.tools.vision_load import *\n        # This is a minimal test - actual implementation would need more specific testing\n        return True\n    except Exception as e:\n        return False, str(e)\n",
+      "tool_browser": "\n# Minimal test for tool_browser\ndef test_browser_import():\n    \"\"\"Test that browser can be imported\"\"\"\n    try:\n        from python.tools.browser import *\n        return True\n    except ImportError as e:\n        return False, str(e)\n\ndef test_browser_instantiation():\n    \"\"\"Test that browser can be instantiated\"\"\"\n    try:\n        from python.tools.browser import *\n        # This is a minimal test - actual implementation would need more specific testing\n        return True\n    except Exception as e:\n        return False, str(e)\n",
+      "tool_code_execution_tool": "\n# Minimal test for tool_code_execution_tool\ndef test_code_execution_tool_import():\n    \"\"\"Test that code_execution_tool can be imported\"\"\"\n    try:\n        from python.tools.code_execution_tool import *\n        return True\n    except ImportError as e:\n        return False, str(e)\n\ndef test_code_execution_tool_instantiation():\n    \"\"\"Test that code_execution_tool can be instantiated\"\"\"\n    try:\n        from python.tools.code_execution_tool import *\n        # This is a minimal test - actual implementation would need more specific testing\n        return True\n    except Exception as e:\n        return False, str(e)\n",
+      "tool_behaviour_adjustment": "\n# Minimal test for tool_behaviour_adjustment\ndef test_behaviour_adjustment_import():\n    \"\"\"Test that behaviour_adjustment can be imported\"\"\"\n    try:\n        from python.tools.behaviour_adjustment import *\n        return True\n    except ImportError as e:\n        return False, str(e)\n\ndef test_behaviour_adjustment_instantiation():\n    \"\"\"Test that behaviour_adjustment can be instantiated\"\"\"\n    try:\n        from python.tools.behaviour_adjustment import *\n        # This is a minimal test - actual implementation would need more specific testing\n        return True\n    except Exception as e:\n        return False, str(e)\n",
+      "tool_response": "\n# Minimal test for tool_response\ndef test_response_import():\n    \"\"\"Test that response can be imported\"\"\"\n    try:\n        from python.tools.response import *\n        return True\n    except ImportError as e:\n        return False, str(e)\n\ndef test_response_instantiation():\n    \"\"\"Test that response can be instantiated\"\"\"\n    try:\n        from python.tools.response import *\n        # This is a minimal test - actual implementation would need more specific testing\n        return True\n    except Exception as e:\n        return False, str(e)\n"
+    },
+    "test_results": {
+      "pytest": {
+        "status": "not_available"
+      }
+    },
+    "coverage_analysis": {
+      "tool_browser_open": {
+        "has_specific_test": false,
+        "needs_manual_validation": true
+      },
+      "tool_scheduler": {
+        "has_specific_test": false,
+        "needs_manual_validation": true
+      },
+      "tool_memory_forget": {
+        "has_specific_test": false,
+        "needs_manual_validation": true
+      },
+      "tool_browser_do": {
+        "has_specific_test": false,
+        "needs_manual_validation": true
+      },
+      "tool_browser_agent": {
+        "has_specific_test": false,
+        "needs_manual_validation": true
+      },
+      "tool_knowledge_tool": {
+        "has_specific_test": false,
+        "needs_manual_validation": true
+      },
+      "tool_unknown": {
+        "has_specific_test": false,
+        "needs_manual_validation": true
+      },
+      "tool_memory_load": {
+        "has_specific_test": false,
+        "needs_manual_validation": true
+      },
+      "tool_webpage_content_tool": {
+        "has_specific_test": false,
+        "needs_manual_validation": true
+      },
+      "tool_call_subordinate": {
+        "has_specific_test": false,
+        "needs_manual_validation": true
+      },
+      "tool_task_done": {
+        "has_specific_test": false,
+        "needs_manual_validation": true
+      },
+      "tool_input": {
+        "has_specific_test": false,
+        "needs_manual_validation": true
+      },
+      "tool_memory_delete": {
+        "has_specific_test": false,
+        "needs_manual_validation": true
+      },
+      "tool_memory_save": {
+        "has_specific_test": false,
+        "needs_manual_validation": true
+      },
+      "tool_vision_load": {
+        "has_specific_test": false,
+        "needs_manual_validation": true
+      },
+      "tool_browser": {
+        "has_specific_test": false,
+        "needs_manual_validation": true
+      },
+      "tool_code_execution_tool": {
+        "has_specific_test": false,
+        "needs_manual_validation": true
+      },
+      "tool_behaviour_adjustment": {
+        "has_specific_test": false,
+        "needs_manual_validation": true
+      },
+      "tool_response": {
+        "has_specific_test": false,
+        "needs_manual_validation": true
+      },
+      "api_tunnel_proxy": {
+        "has_specific_test": false,
+        "needs_manual_validation": true
+      },
+      "api_download_work_dir_file": {
+        "has_specific_test": false,
+        "needs_manual_validation": true
+      },
+      "api_scheduler_task_create": {
+        "has_specific_test": false,
+        "needs_manual_validation": true
+      },
+      "api_image_get": {
+        "has_specific_test": false,
+        "needs_manual_validation": true
+      },
+      "api_scheduler_task_run": {
+        "has_specific_test": false,
+        "needs_manual_validation": true
+      },
+      "api_nudge": {
+        "has_specific_test": false,
+        "needs_manual_validation": true
+      },
+      "api_message_async": {
+        "has_specific_test": false,
+        "needs_manual_validation": true
+      },
+      "api_message": {
+        "has_specific_test": false,
+        "needs_manual_validation": true
+      },
+      "api_poll": {
+        "has_specific_test": false,
+        "needs_manual_validation": true
+      },
+      "api_scheduler_tasks_list": {
+        "has_specific_test": false,
+        "needs_manual_validation": true
+      },
+      "api_scheduler_task_delete": {
+        "has_specific_test": false,
+        "needs_manual_validation": true
+      },
+      "api_settings_get": {
+        "has_specific_test": false,
+        "needs_manual_validation": true
+      },
+      "api_chat_export": {
+        "has_specific_test": false,
+        "needs_manual_validation": true
+      },
+      "api_ctx_window_get": {
+        "has_specific_test": false,
+        "needs_manual_validation": true
+      },
+      "api_pause": {
+        "has_specific_test": false,
+        "needs_manual_validation": true
+      },
+      "api_history_get": {
+        "has_specific_test": false,
+        "needs_manual_validation": true
+      },
+      "api_settings_set": {
+        "has_specific_test": false,
+        "needs_manual_validation": true
+      },
+      "api_scheduler_task_update": {
+        "has_specific_test": false,
+        "needs_manual_validation": true
+      },
+      "api_tunnel": {
+        "has_specific_test": false,
+        "needs_manual_validation": true
+      },
+      "api_delete_work_dir_file": {
+        "has_specific_test": false,
+        "needs_manual_validation": true
+      },
+      "api_chat_load": {
+        "has_specific_test": false,
+        "needs_manual_validation": true
+      },
+      "api_file_info": {
+        "has_specific_test": false,
+        "needs_manual_validation": true
+      },
+      "api_chat_remove": {
+        "has_specific_test": false,
+        "needs_manual_validation": true
+      },
+      "api_upload_work_dir_files": {
+        "has_specific_test": false,
+        "needs_manual_validation": true
+      },
+      "api_import_knowledge": {
+        "has_specific_test": false,
+        "needs_manual_validation": true
+      },
+      "api_scheduler_tick": {
+        "has_specific_test": false,
+        "needs_manual_validation": true
+      },
+      "api_health": {
+        "has_specific_test": false,
+        "needs_manual_validation": true
+      },
+      "api_chat_reset": {
+        "has_specific_test": false,
+        "needs_manual_validation": true
+      },
+      "api_restart": {
+        "has_specific_test": false,
+        "needs_manual_validation": true
+      },
+      "api_upload": {
+        "has_specific_test": false,
+        "needs_manual_validation": true
+      },
+      "api_transcribe": {
+        "has_specific_test": false,
+        "needs_manual_validation": true
+      },
+      "api_get_work_dir_files": {
+        "has_specific_test": false,
+        "needs_manual_validation": true
+      },
+      "api_rfc": {
+        "has_specific_test": false,
+        "needs_manual_validation": true
+      },
+      "web_interface_main": {
+        "has_specific_test": false,
+        "needs_manual_validation": true
+      },
+      "web_file_browser": {
+        "has_specific_test": false,
+        "needs_manual_validation": true
+      },
+      "web_time-utils": {
+        "has_specific_test": false,
+        "needs_manual_validation": true
+      },
+      "web_speech": {
+        "has_specific_test": false,
+        "needs_manual_validation": true
+      },
+      "web_history": {
+        "has_specific_test": false,
+        "needs_manual_validation": true
+      },
+      "web_image_modal": {
+        "has_specific_test": false,
+        "needs_manual_validation": true
+      },
+      "web_modal": {
+        "has_specific_test": false,
+        "needs_manual_validation": true
+      },
+      "web_scheduler": {
+        "has_specific_test": false,
+        "needs_manual_validation": true
+      },
+      "web_settings": {
+        "has_specific_test": false,
+        "needs_manual_validation": true
+      },
+      "web_tunnel": {
+        "has_specific_test": false,
+        "needs_manual_validation": true
+      },
+      "web_speech_browser": {
+        "has_specific_test": false,
+        "needs_manual_validation": true
+      },
+      "web_messages": {
+        "has_specific_test": false,
+        "needs_manual_validation": true
+      },
+      "web_transformers@3.0.2": {
+        "has_specific_test": false,
+        "needs_manual_validation": true
+      },
+      "core_agent": {
+        "has_specific_test": false,
+        "needs_manual_validation": true
+      },
+      "core_initialize": {
+        "has_specific_test": false,
+        "needs_manual_validation": true
+      },
+      "core_models": {
+        "has_specific_test": false,
+        "needs_manual_validation": true
+      },
+      "core_run_cli": {
+        "has_specific_test": false,
+        "needs_manual_validation": true
+      },
+      "core_run_ui": {
+        "has_specific_test": false,
+        "needs_manual_validation": true
+      },
+      "core_run_tunnel": {
+        "has_specific_test": false,
+        "needs_manual_validation": true
+      }
+    }
+  },
+  "summary": {
+    "total_features": 71,
+    "environment_status": "attention_required",
+    "features_needing_attention": 0
+  }
+}
