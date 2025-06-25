@@ -47,3 +47,7 @@ instruments/**
 # Global rule to include .gitkeep files anywhere
 !**/.gitkeep
 agent_history.gif
+
+# Feature validation system generated files
+venv/
+test_results/
